@@ -6,15 +6,15 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Course Name (change me)</title>
+    <title>PreTeXt Working Group</title>
 
-    <subtitle>MATH 221 Calculus III Spring 2026</subtitle>
+    <subtitle>Spring 2026</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
 
     <chapter xml:id="course-documents">
-      <title>Course Documents</title>
+      <title>Information</title>
 
       <!-- Course syllabus -->
       <xi:include href="./syllabus/syllabus.ptx" />
@@ -39,7 +39,7 @@
 
     </chapter>
 
-
+<!--
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
 
@@ -55,7 +55,7 @@
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
 
-    <chapter xml:id="handouts">
+     <chapter xml:id="handouts">
       <title>Handouts</title>
 
       <!-- Remove or comment out the sample and replace with your own handouts -->
@@ -70,6 +70,7 @@
       <xi:include href="./homework/sample-homework.ptx"/>
 
     </chapter>
+  -->
 
     <!-- Include additional chapters for other categories -->
 

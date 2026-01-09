@@ -16,9 +16,9 @@
   </bibinfo>
 
   <!-- This displays the title page information -->
-<!--  <titlepage>
-    <titlepage-items/>
+  <titlepage>
+<!--    <titlepage-items/> -->
   </titlepage>
--->
+
 </frontmatter>
 

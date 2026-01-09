@@ -152,8 +152,8 @@
       -->
     <css
         theme="default-modern"
-        primary-color="#000000"
-        secondary-color="#FDB515"
+        primary-color="#FDB515"
+        secondary-color="#000000"
         primary-color-dark="#5192BD"
         provide-dark-mode="yes"
     />

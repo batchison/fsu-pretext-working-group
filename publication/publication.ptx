@@ -146,11 +146,13 @@
     <!-- See also                                              -->
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <!-- primary-color="#386F94" -->
-     <!-- primary-color-dark="#5192BD" -->
+     <!-- primary-color-dark="#5192BD" 
+      "#FDB515" - california gold
+      -->
     <css
         theme="default-modern"
         primary-color="#000000"
-        primary-color-dark="#FDB515"
+        primary-color-dark="#FFD700"
         provide-dark-mode="yes"
     />
 

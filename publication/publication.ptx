@@ -145,11 +145,12 @@
     <!-- override defaults.  Ex:<css theme="denver"/>          -->
     <!-- See also                                              -->
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
-    <!-- #386F94 -->
+    <!-- primary-color="#386F94" -->
+     <!-- primary-color-dark="#5192BD" -->
     <css
         theme="default-modern"
-        primary-color="#FFD700"
-        primary-color-dark="#5192BD"
+        primary-color="#000000"
+        primary-color-dark="#FDB515"
         provide-dark-mode="yes"
     />
 

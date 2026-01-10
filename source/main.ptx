@@ -13,7 +13,8 @@
     <xi:include href="./frontmatter.ptx" />
 
     <chapter xml:id="course-documents">
-      <title>Spring 2026 Information</title>
+      <title>Spring 2026</title>
+      <subtitle>Information</subtitle>
       <xi:include href="./syllabus/syllabus.ptx" />
     </chapter>
 

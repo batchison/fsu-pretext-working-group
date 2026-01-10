@@ -4,6 +4,7 @@
 <!-- works. -->
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
+  <title>Main Page</title>
   <bibinfo>
     <author>
       <personname>PreTeXt Working Group</personname>

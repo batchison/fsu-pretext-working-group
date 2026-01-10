@@ -7,14 +7,13 @@
   <book>
     <title>PreTeXt Working Group</title>
 
-    <subtitle>Spring 2026</subtitle>
+    <!-- <subtitle>Spring 2026</subtitle> -->
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
 
     <chapter xml:id="course-documents">
-      <title>Information</title>
-
+      <title>Spring 2026 Information</title>
       <xi:include href="./syllabus/syllabus.ptx" />
     </chapter>
 

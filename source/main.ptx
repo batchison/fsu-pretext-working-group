@@ -6,15 +6,27 @@
   <xi:include href="./docinfo.ptx" />
   <book>
     <title>PreTeXt Working Group</title>
-
-    <!-- <subtitle>Spring 2026</subtitle> -->
-
-    <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
-
-      <xi:include href="./purpose-and-requirements.ptx" />
-      <xi:include href="./meetings.ptx"/>
+    <xi:include href="./purpose-and-requirements.ptx" />
+    <xi:include href="./meetings.ptx"/>
+    <chapter xml:id="useful-links">
+      <title>Useful Links</title>
+        <section>
+          <title>PreTeXt Resources</title>
+          <p><m>\href{https://pretextbook.org}{PreTeXt \ Home \ Page}</m> </p>
+          <p><m>\href{https://pretextbook.org/author-docs/}{PreTeXt \ Author \ Documentation}</m> </p>
+          <p><m>\href{https://pretextbook.org/quick-start/}{PreTeXt \ Quick \ Start \ Guide}</m> </p>
+          <p><m>\href{https://mathtech.org/}{MathTech.org}</m> </p>
+        </section>
+        <section>
+          <title>CAROTEL Resources</title>
+          <p><m>\href{http://www.carotelproject.org}{CAROTEL \ project}</m></p>
+          <p><m>\href{https://oercommons.org/hubs/masscc}{OER \ Commons \ Open \ Massachusetts \ Public \ Higher \ Education \ Repository}</m></p>
+          <p><m>\href{https://oercommons.org/curated-collections/1863?__hub_id=63}{OER \ Commons \ CAROTEL \ Repository}</m></p>
+          <p><m>\href{https://www.naceweb.org/career-readiness/competencies/career-readiness-defined}{NACE \ Career \ Readiness \ Competencies}</m></p>
+    </chapter>
     <chapter xml:id="sample-course-items">
+      <title>Sample Course Items</title>
       <xi:include href="./syllabus/syllabus.ptx" />
     </chapter>
     </book>

@@ -10,18 +10,18 @@ var ptx_lunr_docs = [
   "body": " Purpose  Beginning in December 2025, interested faculty are invited to take part in a paid FSU Faculty Initiative to Create Accessible Documents.  Many are already aware of the new rule on the accessibility of web content and mobile apps provided by state and local governments. This rule, set to take effect on April 24, 2026, will impact faculty creation of course materials across the country. All of us will need to adapt in order to meet the rule requirements and support the learning needs of our students. For many faculty, the compliance will start with a syllabus.  PreTeXt is a versatile free authoring system. Among its developers' guiding principles is the recognition of “the inherent value in producing material that is accessible to everyone.” Whether authoring a textbook, scholarly article, in-class assessment, or weekly handout, PreTeXt affords authors the opportunity to broaden the scope of what they can offer in their classes and their academic discipline.  The FSU Faculty Initiative to Create Accessible Documents is a faculty PreTeXt Working Group.  "
 },
 {
-  "id": "Spring2026-3",
+  "id": "Purpose-and-Requirements-3",
   "level": "1",
-  "url": "Spring2026-3.html",
+  "url": "Purpose-and-Requirements-3.html",
   "type": "Section",
   "number": "",
   "title": "Required Deliverables",
   "body": "Required Deliverables  By the end of the meetings, participants will create a course syllabus and one additional course element (activity, assessment, notes, etc.). Materials created will need to reference at least two of the NACE career readiness competencies, and a collection of participants' additional course elements will be included in the CAROTEL Project resource library, as part of the OER Commons Open Massachusetts Public Higher Education Repository.  "
 },
 {
-  "id": "Spring2026-4",
+  "id": "Purpose-and-Requirements-4",
   "level": "1",
-  "url": "Spring2026-4.html",
+  "url": "Purpose-and-Requirements-4.html",
   "type": "Section",
   "number": "",
   "title": "Participant Stipend",
@@ -125,6 +125,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "Training Session Recording",
   "body": " Training Session Recording   Passcode required for access.  "
+},
+{
+  "id": "Spring2026",
+  "level": "1",
+  "url": "Spring2026.html",
+  "type": "Chapter",
+  "number": "",
+  "title": "Spring 2026 Cohort",
+  "body": " Spring 2026 Cohort   "
 },
 {
   "id": "syllabus",

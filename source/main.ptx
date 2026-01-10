@@ -16,16 +16,6 @@
       <title>Spring 2026</title>
       <xi:include href="./syllabus/syllabus.ptx" />
     </chapter>
-
-    <chapter xml:id="Meetings">
-      <title>Scheduled Meetings</title>
-
-      <introduction>
-        <p>The following is a list of scheduled working group meetings for the current semester.</p>
-      </introduction>
-
-      
-      <xi:include href="./notes/week01.ptx"/>
-    </chapter>
+      <xi:include href="./meetings.ptx"/>
     </book>
   </pretext>

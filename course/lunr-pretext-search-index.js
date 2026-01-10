@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Participant Stipend",
-  "body": "Participant Stipend  For producing the required deliverables before the April 24, 2026 accessibility ruling deadline, participants will receive a $500 stipend. This stipend is offered through the CAROTEL project, Career and AI Readiness While Remixing Open Textbooks Through an Equity Lens , part of the U.S. Department of Education's Open Textbook Pilot program.  "
+  "body": "Participant Stipend  For producing the required deliverables before the April 24, 2026 accessibility ruling deadline, participants will be eligible to receive a stipend. This stipend is offered through the CAROTEL project, Career and AI Readiness While Remixing Open Textbooks Through an Equity Lens , part of the U.S. Department of Education's Open Textbook Pilot program.  "
 },
 {
   "id": "Meetings-3",

@@ -14,20 +14,17 @@
 
     <chapter xml:id="course-documents">
       <title>Spring 2026</title>
-      <subtitle>Information</subtitle>
       <xi:include href="./syllabus/syllabus.ptx" />
     </chapter>
 
-    <chapter xml:id="course-notes">
-      <title>Course Essentials</title>
+    <chapter xml:id="Meetings">
+      <title>Scheduled Meetings</title>
 
       <introduction>
-        <p>
-          The following notes are intended to remind you what we covered each week.
-          They are not a substitute for attending class and not a substitute for reading the textbook.
-        </p>
+        <p>The following is a list of scheduled working group meetings for the current semester.</p>
       </introduction>
 
+      
       <xi:include href="./notes/week01.ptx"/>
     </chapter>
     </book>

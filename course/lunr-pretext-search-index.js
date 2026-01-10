@@ -1,6 +1,132 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
+  "id": "Requirements",
+  "level": "1",
+  "url": "Requirements.html",
+  "type": "Section",
+  "number": "",
+  "title": "Purpose",
+  "body": " Purpose  Beginning in December 2025, interested faculty are invited to take part in a paid FSU Faculty Initiative to Create Accessible Documents.  Many are already aware of the new rule on the accessibility of web content and mobile apps provided by state and local governments. This rule, set to take effect on April 24, 2026, will impact faculty creation of course materials across the country. All of us will need to adapt in order to meet the rule requirements and support the learning needs of our students. For many faculty, the compliance will start with a syllabus.  PreTeXt is a versatile free authoring system. Among its developers' guiding principles is the recognition of “the inherent value in producing material that is accessible to everyone.” Whether authoring a textbook, scholarly article, in-class assessment, or weekly handout, PreTeXt affords authors the opportunity to broaden the scope of what they can offer in their classes and their academic discipline.  The FSU Faculty Initiative to Create Accessible Documents is a faculty PreTeXt Working Group.  "
+},
+{
+  "id": "Spring2026-3",
+  "level": "1",
+  "url": "Spring2026-3.html",
+  "type": "Section",
+  "number": "",
+  "title": "Required Deliverables",
+  "body": "Required Deliverables  By the end of the meetings, participants will create a course syllabus and one additional course element (activity, assessment, notes, etc.). Materials created will need to reference at least two of the NACE career readiness competencies, and a collection of participants' additional course elements will be included in the CAROTEL Project resource library, as part of the OER Commons Open Massachusetts Public Higher Education Repository.  "
+},
+{
+  "id": "Spring2026-4",
+  "level": "1",
+  "url": "Spring2026-4.html",
+  "type": "Section",
+  "number": "",
+  "title": "Participant Stipend",
+  "body": "Participant Stipend  For producing the required deliverables before the April 24, 2026 accessibility ruling deadline, participants will receive a $500 stipend. This stipend is offered through the CAROTEL project, Career and AI Readiness While Remixing Open Textbooks Through an Equity Lens , part of the U.S. Department of Education's Open Textbook Pilot program.  "
+},
+{
+  "id": "Meetings-3",
+  "level": "1",
+  "url": "Meetings-3.html",
+  "type": "Section",
+  "number": "",
+  "title": "Friday 1\/23",
+  "body": " Friday 1\/23  Time: 4:30-6:30  Location: HH 107 (ETO classroom)    "
+},
+{
+  "id": "Meetings-4",
+  "level": "1",
+  "url": "Meetings-4.html",
+  "type": "Section",
+  "number": "",
+  "title": "Monday 1\/26",
+  "body": " Monday 1\/26  Time: 11:30-1:30  Location: HH 404 (Math suite)    "
+},
+{
+  "id": "Meetings-5",
+  "level": "1",
+  "url": "Meetings-5.html",
+  "type": "Section",
+  "number": "",
+  "title": "Thursday 2\/5",
+  "body": " Thursday 2\/5  Time: 7:30-9:30  Location: HH 107 (ETO classroom)    "
+},
+{
+  "id": "Meetings-6",
+  "level": "1",
+  "url": "Meetings-6.html",
+  "type": "Section",
+  "number": "",
+  "title": "Wednesday 2\/11",
+  "body": " Wednesday 2\/11  Time: 11:30-1:30  Location: HH 404 (Math suite)    "
+},
+{
+  "id": "Meetings-7",
+  "level": "1",
+  "url": "Meetings-7.html",
+  "type": "Section",
+  "number": "",
+  "title": "Monday 2\/24",
+  "body": " Monday 2\/24  Time: 2:30-4:30  Location: HH 107 (ETO classroom)    "
+},
+{
+  "id": "Meetings-8",
+  "level": "1",
+  "url": "Meetings-8.html",
+  "type": "Section",
+  "number": "",
+  "title": "Friday 3\/13",
+  "body": " Friday 3\/13  Time: 7:30-9:30  Location: HH 107 (ETO classroom)    "
+},
+{
+  "id": "Meetings-9",
+  "level": "1",
+  "url": "Meetings-9.html",
+  "type": "Section",
+  "number": "",
+  "title": "Wednesday 4\/1",
+  "body": " Wednesday 4\/1  Time: 7:30-9:30  Location: HH 107 (ETO classroom)    "
+},
+{
+  "id": "Meetings-10",
+  "level": "1",
+  "url": "Meetings-10.html",
+  "type": "Section",
+  "number": "",
+  "title": "Thursday 4\/23",
+  "body": " Thursday 4\/23  Time: 2:30-4:30  Location: HH 107 (ETO classroom)    "
+},
+{
+  "id": "useful-links-2",
+  "level": "1",
+  "url": "useful-links-2.html",
+  "type": "Section",
+  "number": "",
+  "title": "PreTeXt Resources",
+  "body": " PreTeXt Resources          "
+},
+{
+  "id": "useful-links-3",
+  "level": "1",
+  "url": "useful-links-3.html",
+  "type": "Section",
+  "number": "",
+  "title": "CAROTEL Resources",
+  "body": " CAROTEL Resources      "
+},
+{
+  "id": "useful-links-4",
+  "level": "1",
+  "url": "useful-links-4.html",
+  "type": "Section",
+  "number": "",
+  "title": "Training Session Recording",
+  "body": " Training Session Recording   Passcode required for access.  "
+},
+{
   "id": "syllabus",
   "level": "1",
   "url": "syllabus.html",
@@ -17,15 +143,6 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "course name (MATH xxx, section xxx) "
-},
-{
-  "id": "notes-week-01",
-  "level": "1",
-  "url": "notes-week-01.html",
-  "type": "Section",
-  "number": "",
-  "title": "Week 1",
-  "body": " Week 1   This is an outline of the topics we covered in the first week of class.     Monday 8\/22      Wednesday 8\/24      Friday 8\/26     "
 }
 ]
 

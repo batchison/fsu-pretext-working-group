@@ -31,8 +31,12 @@
           <p>Passcode required for access.</p>
         </section>
     </chapter>
-    <chapter xml:id="sample-course-items">
-      <title>Sample Course Items</title>
+    <chapter xml:id="Spring2026">
+      <title>Spring 2026 Cohort</title>
+          <p><m>\href{https://batchison.github.io/MATH123/meta_frontmatter.html}{Sample \ Syllabus}</m></p>
+    </chapter>
+    <chapter xml:id="syllabus-template">
+      <title>Syllabus Template</title>
       <xi:include href="./syllabus/syllabus.ptx" />
     </chapter>
     </book>

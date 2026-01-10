@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section>
-<title>Purpose &amp; Requirements</title>
-    <p>Beginning in December 2025, interested faculty are invited to take part in a paid FSU Faculty Initiative to Create Accessible Documents.</p>
-    <p>Many are already aware of the new rule on the accessibility of web content and mobile apps provided by state and local governments.  This rule, set to take effect on April 24, 2026, will impact faculty creation of course materials across the country.  All of us will need to adapt in order to meet the rule requirements and support the learning needs of our students.  For many faculty, the compliance will start with a syllabus.</p>
-    <p>PreTeXt is a versatile free authoring system.  Among its developers' guiding principles is the recognition of “the inherent value in producing material that is accessible to everyone.”  Whether authoring a textbook, scholarly article, in-class assessment, or weekly handout, PreTeXt affords authors the opportunity to broaden the scope of what they can offer in their classes and their academic discipline.</p>
-    <p>The FSU Faculty Initiative to Create Accessible Documents is a faculty PreTeXt Working Group.</p>
-</section>
-<section>
-    <title>Required Deliverables</title> 
-    <p>By the end of the meetings, participants will create a course syllabus and one additional course element (activity, assessment, notes, etc.).  Materials created will need to reference the <m>\href{https://www.naceweb.org/career-readiness/competencies/career-readiness-defined}{NACE Career Readiness Competencies}</m>, and a collection of participants' additional course elements will be included in the CAROTEL Project resource library, as part of the OER Commons Open Massachusetts Public Higher Education Repository.</p>
-</section>
-<section>
-<title>Participant Stipend</title>
-    <p>For producing the required deliverables before the April 24, 2026 accessibility ruling deadline, participants will receive a $500 stipend.  This stipend is offered through the <m>\href{http://www.carotelproject.org}{CAROTEL project}</m>, part of the U.S. Department of Education's Open Textbook Pilot program.</p>
-</section>
+<chapter xml:id="Spring2026">
+    <title>Spring 2026</title>
+    <section xml:id="Requirements">
+        <title>Purpose &amp; Requirements</title>
+            <p>Beginning in December 2025, interested faculty are invited to take part in a paid FSU Faculty Initiative to Create Accessible Documents.</p>
+            <p> Many are already aware of the new rule on the accessibility of web content and mobile apps provided by state and local governments.  This rule, set to take effect on April 24, 2026, will impact faculty creation of course materials across the country.  All of us will need to adapt in order to meet the rule requirements and support the learning needs of our students.  For many faculty, the compliance will start with a syllabus.</p>
+            <p> PreTeXt is a versatile free authoring system.  Among its developers' guiding principles is the recognition of “the inherent value in producing material that is accessible to everyone.”  Whether authoring a textbook, scholarly article, in-class assessment, or weekly handout, PreTeXt affords authors the opportunity to broaden the scope of what they can offer in their classes and their academic discipline.</p>
+            <p> The FSU Faculty Initiative to Create Accessible Documents is a faculty PreTeXt Working Group.</p>
+    </section>
+  <section><title>Required Deliverables</title> 
+  <p>By the end of the meetings, participants will create a course syllabus and one additional course element (activity, assessment, notes, etc.).  Materials created will need to reference the <m>\href{https://www.naceweb.org/career-readiness/competencies/career-readiness-defined}{NACE Career Readiness Competencies}</m>, and a collection of participants' additional course elements will be included in the CAROTEL Project resource library, as part of the OER Commons Open Massachusetts Public Higher Education Repository.</p>
+  </section>
+  <section><title>Participant Stipend</title>
+  <p>For producing the required deliverables before the April 24, 2026 accessibility ruling deadline, participants will receive a $500 stipend.  This stipend is offered through the <m>\href{http://www.carotelproject.org}{CAROTEL project}</m>, part of the U.S. Department of Education's Open Textbook Pilot program.</p>
+  </section>
+</chapter>

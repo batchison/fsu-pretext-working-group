@@ -44,6 +44,7 @@
       <!--<subtitle>Course Syllabus</subtitle>-->
       <!--<xi:include href="./syllabus/meta_frontmatter.ptx" />-->
       <xi:include href="./syllabus/ch_essentials.ptx" />
+      <xi:include href="./syllabus/ch_essentials_2.ptx" />
       <!--<xi:include href="./syllabus/ch_grading.ptx" />
       <xi:include href="./syllabus/ch_additional_information.ptx" />-->
     </chapter>

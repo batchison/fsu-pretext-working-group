@@ -28,6 +28,7 @@
     <!-- on the title (ch-shorttitle.ptx) both here and on disk    -->
     <xi:include href="./ch_essentials.ptx" />
     <xi:include href="./ch_grading.ptx" />
+    <xi:include href="./nace.ptx" />
     <xi:include href="./ch_additional_information.ptx" />
     <!-- <xi:include href="./ch_empty.ptx"/> -->
     <!-- Of course you will want to add more chapters as you proceed-->

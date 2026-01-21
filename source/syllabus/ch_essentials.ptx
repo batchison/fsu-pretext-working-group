@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<section xml:id="ch_essentials" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Essentials</title>
+<!--<section xml:id="section_006">
+            <title>Section 006, CRN 20425
+            </title>
+                    <p><alert>All information on this page is specific to Course Sections 1A1 and 1B1!</alert></p>
+                    <p><alert>Lab Meeting Time and Place:</alert> R 4:30-6:20 in Hemenway Hall 310</p>
+                    <p><alert>Recitation Meeting Times and Place:</alert></p>
+                    <p> Section 1A1 - F 12:30-1:20 in HH 302</p>
+                    <p>Section 1B1 - F 1:30-2:20 in HH 302 </p>
+                    <p><alert>Cumulative Final Exam:</alert> Monday, December 16<m>^{\text{th}}</m>, 11:30-2:30 in HH 401
+                </p>
+</section>-->
+    <subsection xml:id="course_essentials">
+            <title>Course Essentials</title>
+                    <p><alert>Instructor:</alert> Benjamin Atchison, Professor</p>
+                    <p><alert>Office Location:</alert> Hemenway Hall (HH) 402E</p>
+                    <p><alert>Email:</alert> <email>batchison@framingham.edu</email></p>
+                    <p><alert>Phone:</alert> <phone>508-626-4725</phone></p>
+                    <p><alert>Section(s):</alert> 005</p>
+                    <p><alert>CRN(s):</alert> 90544</p>
+                    <p><alert>Course Meeting Time and Place:</alert> MWRF 11:30-12:20 in Hemenway Annex (HA) 423</p>
+                    <p><alert>Office Hours:</alert> W 9:15-11:15, F 1:30-2:30 in HH 402E, and by appt.</p>
+                    <p><alert>Supplemental Instruction:</alert> This course is paired with a Supplemental Instructor (SI).  Additional information, including SI availability, will be distributed in class and posted in Canvas.</p>
+                    <p><alert>Withdrawal Deadline:</alert> Wednesday, November 26<m>^{\text{th}}</m></p>
+                    <p><alert>Final Exam:</alert> Wednesday, December 17<m>^{\text{th}}</m> 11:30-2:30 in Hemenway Annex (HA) 423</p>
+                    <p><alert>Course Text:</alert> This course will use an open-source (free) textbook, available at the following link(s).</p>
+                    <p><m>\href{https://openstax.org/details/books/college-algebra-2e}
+                      {OpenStax \ College \ Algebra}</m> </p>
+                      <!--https://batchison.github.io/MATH123/college_algebra_full_text_2022.pdf}{College \ Algebra \ Full \ Text}-->
+                    <p>Additional course content will be supplemented, as needed, using digital handouts and other open educational resources.  Students seeking additional resources are encouraged to contact the instructor.</p>
+                    <p><alert>Calculators:</alert> Non-graphing calculators are permitted for exams only.  Students wishing to use a tablet or laptop during lectures for notetaking purposes only should notify the instructor of their intentions prior to the start of class.</p>
+                    <p><alert>Online Homework:</alert> <m>\href{http://www.myopenmath.com}{MyOpenMath}</m> </p>
+                    <p><alert>Course ID:</alert> 296537 <alert>Enrollment Key:</alert> Atchison</p>
+                    <p>The instructor reserves the right to make changes to this syllabus at any time.</p>
+    </subsection>
+    <subsection xml:id="course_description_and_goal">
+            <title>Course Description and Goal</title>
+                <p><alert>MATH 123 Introduction to Functions</alert> (Gen. Ed. satisfying Core Math or Domain II-A requirements)</p>
+                <p>An exploration of numerical, graphical, and symbolic approaches to function concepts with emphasis on real-world applications, modeling, and problem-solving skills. Topics include polynomial and rational functions, equations and inequalities, systems of linear equations, and the connection between functions and their graphs. 
+                <!--This course includes an additional a one-hour per week lecture recitation. Topics may vary by section at the discretion of the instructor with the goal of supporting students' readiness for, and success, in the lecture course.-->
+                </p>
+              <p><em>Prerequisite:</em> Satisfactory mathematics placement.</p>
+   <!--     </section>
+    <section xml:id="course_goal">
+            <title>Course Goal</title>-->
+                <p><alert>Course Goal:</alert> To introduce the student to the fundamental concepts of algebra, strengthen their understanding, build their confidence as mathematical thinkers, and develop an appreciation of the subject and its application to other fields of study and real-world scenarios.</p>
+    </subsection>
+  </section>

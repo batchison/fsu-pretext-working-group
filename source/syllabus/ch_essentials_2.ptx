@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section>
-  <title>Course Description and Goal</title>
-    <p><alert>MATH 123 Introduction to Functions</alert> (Gen. Ed. satisfying Core Math or Domain II-A requirements)</p>
-    <p>An exploration of numerical, graphical, and symbolic approaches to function concepts with emphasis on real-world applications, modeling, and problem-solving skills. Topics include polynomial and rational functions, equations and inequalities, systems of linear equations, and the connection between functions and their graphs.  This course includes an additional a one-hour per week lecture recitation. Topics may vary by section at the discretion of the instructor with the goal of supporting students' readiness for, and success, in the lecture course.</p>
-    <p><em>Prerequisite:</em> Satisfactory mathematics placement.</p>
+  <title>Course Description</title>
+    <p><alert>MATH 221 Calculus III</alert></p>
+    <p>A study of conic sections, vectors in two and three dimensions, dot and cross products and their applications to geometry, equations of lines and planes, quadratic surfaces, polar, cylindrical, and spherical coordinates, and functions of several variables, partial derivatives, differentials, directional derivatives, gradients, optimization problems, multiple integrals and their applications.</p>
+    <p><em>Prerequisite:</em>MATH 220 Calculus II with a minimum grade of C (2.00) or higher.</p>
 </section>

@@ -42,7 +42,7 @@
     <chapter xml:id="syllabus_221_f26">
       <title>MATH 221 Calculus III Syllabus</title>
       <!--<subtitle>Course Syllabus</subtitle>-->
-      <xi:include href="./syllabus/meta_frontmatter.ptx" />
+      <!--<xi:include href="./syllabus/meta_frontmatter.ptx" />-->
       <xi:include href="./syllabus/ch_essentials.ptx" />
       <!--<xi:include href="./syllabus/ch_grading.ptx" />
       <xi:include href="./syllabus/ch_additional_information.ptx" />-->

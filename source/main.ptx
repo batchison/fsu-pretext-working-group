@@ -13,27 +13,27 @@
       <title>Useful Links</title>
         <section>
           <title>PreTeXt Resources</title>
-          <p><m>\href{https://pretextbook.org}{PreTeXt \ Home \ Page}</m> </p>
-          <p><m>\href{https://pretextbook.org/author-docs/}{PreTeXt \ Author \ Documentation}</m> </p>
-          <p><m>\href{https://pretextbook.org/quick-start/}{PreTeXt \ Quick \ Start \ Guide}</m> </p>
-          <p><m>\href{https://mathtech.org/}{MathTech.org}</m> </p>
+          <p><url href="https://pretextbook.org">PreTeXt Home Page</url></p>
+          <p><url href="https://pretextbook.org/author-docs/">PreTeXt Author Documentation</url></p>
+          <p><url href="https://pretextbook.org/quick-start/">PreTeXt Quick Start Guide</url></p>
+          <p><url href="https://mathtech.org/">MathTech.org</url></p>
         </section>
         <section>
           <title>CAROTEL Resources</title>
-          <p><m>\href{http://www.carotelproject.org}{CAROTEL \ project}</m></p>
-          <p><m>\href{https://oercommons.org/hubs/masscc}{OER \ Commons \ Open \ Massachusetts \ Public \ Higher \ Education \ Repository}</m></p>
-          <p><m>\href{https://oercommons.org/curated-collections/1863?__hub_id=63}{OER \ Commons \ CAROTEL \ Repository}</m></p>
-          <p><m>\href{https://www.naceweb.org/career-readiness/competencies/career-readiness-defined}{NACE \ Career \ Readiness \ Competencies}</m></p>
+          <p><url href="http://www.carotelproject.org">CAROTEL  project</url></p>
+          <p><url href="https://oercommons.org/hubs/masscc">OER Commons Open Massachusetts Public Higher Education Repository</url></p>
+          <p><url href="https://oercommons.org/curated-collections/1863?__hub_id=63">OER Commons CAROTEL Repository</url></p>
+          <p><url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined">NACE Career Readiness Competencies</url></p>
         </section>
         <section>  
           <title>Training Session Recording</title> 
-          <p><m>\href{https://zoom.us/rec/share/PPPOw20lRmb5wfI1bCXtxnuPnVuAF0pXx3lSWWbnJKuy4NNMNkd3lQAeT54rGHTA.91VnB--9j3XB3Bc7}{December 12 \ Training \ with \ Oscar \ Levin}</m></p>
+          <p><url href="https://zoom.us/rec/share/PPPOw20lRmb5wfI1bCXtxnuPnVuAF0pXx3lSWWbnJKuy4NNMNkd3lQAeT54rGHTA.91VnB--9j3XB3Bc7">December 12 Training with Oscar Levin</url></p>
           <p>Passcode required for access.</p>
         </section>
     </chapter>
     <chapter xml:id="Spring2026">
       <title>Spring 2026 Cohort</title>
-          <p><m>\href{https://batchison.github.io/MATH123/meta_frontmatter.html}{Sample \ Syllabus}</m></p>
+          <p><url href="https://batchison.github.io/MATH123/meta_frontmatter.html">Sample Syllabus</url></p>
     </chapter>
     <chapter xml:id="syllabus-template">
       <title>Syllabus Template</title>

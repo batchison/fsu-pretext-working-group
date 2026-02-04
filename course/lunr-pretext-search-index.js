@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Friday 1\/23",
-  "body": " Friday 1\/23  Time: 4:30-6:30  Location: HH 107 (ETO classroom)    "
+  "body": " Friday 1\/23  Time: 4:30-6:30  Location: HH 107 (ETO classroom)  Zoom Link   "
 },
 {
   "id": "Meetings-4",
@@ -42,8 +42,8 @@ var ptx_lunr_docs = [
   "url": "Meetings-4.html",
   "type": "Section",
   "number": "",
-  "title": "Monday 1\/26",
-  "body": " Monday 1\/26  Time: 11:30-1:30  Location: HH 404 (Math suite)    "
+  "title": "Monday 1\/26 - Canceled",
+  "body": " Monday 1\/26 - Canceled  Time: 11:30-1:30  Location: HH 404 (Math suite)  Zoom Link   "
 },
 {
   "id": "Meetings-5",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Thursday 2\/5",
-  "body": " Thursday 2\/5  Time: 7:30-9:30  Location: HH 107 (ETO classroom)    "
+  "body": " Thursday 2\/5  Time: 7:30-9:30  Location: HH 107 (ETO classroom)  Zoom Link   "
 },
 {
   "id": "Meetings-6",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Wednesday 2\/11",
-  "body": " Wednesday 2\/11  Time: 11:30-1:30  Location: HH 404 (Math suite)    "
+  "body": " Wednesday 2\/11  Time: 11:30-1:30  Location: HH 404 (Math suite)  Zoom Link   "
 },
 {
   "id": "Meetings-7",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Monday 2\/24",
-  "body": " Monday 2\/24  Time: 2:30-4:30  Location: HH 107 (ETO classroom)    "
+  "body": " Monday 2\/24  Time: 2:30-4:30  Location: HH 107 (ETO classroom)  Zoom Link   "
 },
 {
   "id": "Meetings-8",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Friday 3\/13",
-  "body": " Friday 3\/13  Time: 7:30-9:30  Location: HH 107 (ETO classroom)    "
+  "body": " Friday 3\/13  Time: 7:30-9:30  Location: HH 107 (ETO classroom)  Zoom Link   "
 },
 {
   "id": "Meetings-9",
@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Wednesday 4\/1",
-  "body": " Wednesday 4\/1  Time: 7:30-9:30  Location: HH 107 (ETO classroom)    "
+  "body": " Wednesday 4\/1  Time: 7:30-9:30  Location: HH 107 (ETO classroom)  Zoom Link   "
 },
 {
   "id": "Meetings-10",
@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Thursday 4\/23",
-  "body": " Thursday 4\/23  Time: 2:30-4:30  Location: HH 107 (ETO classroom)    "
+  "body": " Thursday 4\/23  Time: 2:30-4:30  Location: HH 107 (ETO classroom)  Zoom Link   "
 },
 {
   "id": "useful-links-2",
@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "PreTeXt Resources",
-  "body": " PreTeXt Resources          "
+  "body": " PreTeXt Resources  PreTeXt Home Page  PreTeXt Author Documentation  PreTeXt Quick Start Guide  MathTech.org  "
 },
 {
   "id": "useful-links-3",
@@ -115,7 +115,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "CAROTEL Resources",
-  "body": " CAROTEL Resources      "
+  "body": " CAROTEL Resources  CAROTEL project  OER Commons Open Massachusetts Public Higher Education Repository  OER Commons CAROTEL Repository  NACE Career Readiness Competencies  "
 },
 {
   "id": "useful-links-4",
@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Training Session Recording",
-  "body": " Training Session Recording   Passcode required for access.  "
+  "body": " Training Session Recording  December 12 Training with Oscar Levin  Passcode required for access.  "
 },
 {
   "id": "Spring2026",
@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Spring 2026 Cohort",
-  "body": " Spring 2026 Cohort   "
+  "body": " Spring 2026 Cohort  Sample Syllabus  "
 },
 {
   "id": "syllabus",
@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Course Essentials",
-  "body": " Course Essentials  Instructor: Benjamin Atchison, Professor  Office Location: Hemenway Hall (HH) 402E  Email:  batchison@framingham.edu  Phone:  508-626-4725  Section(s): 001  CRN(s): 20335  Course Meeting Time and Place: MWRF 10:30-11:20 in Hemenway Hall (HH) 407  Office Hours: MW 11:30-12:30, W 9:00-10:00 in HH 402E, and by appt.  Withdrawal Deadline: Friday, April 24  Final Exam: Wednesday, May 13 11:30-2:30 in Hemenway Hall (HH) 407  Course Text: This course will use an open-source (free) textbook, available at the following link(s).    Additional course content will be supplemented, as needed, using digital handouts and other open educational resources. Students seeking additional resources are encouraged to contact the instructor.  Calculators: With the exception of in-class note taking, student use of calculators, laptops, tablets, cell phones, smart watches, or any other devices will not be permitted.  The instructor reserves the right to make changes to this syllabus at any time.  "
+  "body": " Course Essentials  Instructor: Benjamin Atchison, Professor  Office Location: Hemenway Hall (HH) 402E  Email:  batchison@framingham.edu  Phone: 508-626-4725  Section(s): 001  CRN(s): 20335  Course Meeting Time and Place: MWRF 10:30-11:20 in Hemenway Hall (HH) 407  Office Hours: MW 11:30-12:30, W 9:00-10:00 in HH 402E, and by appt.  Withdrawal Deadline: Friday, April 24  Final Exam: Wednesday, May 13 11:30-2:30 in Hemenway Hall (HH) 407  Course Text: This course will use an open-source (free) textbook, available at the following link(s).  APEX Calculus  Additional course content will be supplemented, as needed, using digital handouts and other open educational resources. Students seeking additional resources are encouraged to contact the instructor.  Calculators: With the exception of in-class note taking, student use of calculators, laptops, tablets, cell phones, smart watches, or any other devices will not be permitted.  The instructor reserves the right to make changes to this syllabus at any time.  "
 },
 {
   "id": "syllabus_221_f26-3",
@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "NACE Career Readiness Competencies",
-  "body": " NACE Career Readiness Competencies  The National Association of Colleges and Employers (NACE) outlines eight career readiness competencies that are considered as key to ensuring successful entrance into the workforce. The eight competencies are defined at the following site.   Throughout the semester, course discussion, assignments, assessments, and additional activities will touch upon several of the NACE competencies to varying degrees, including Communication, Critical Thinking, Leadership, Professionalism, and Technology.  More information regarding how a specific competency is addressed will be included on select assignments.  "
+  "body": " NACE Career Readiness Competencies  The National Association of Colleges and Employers (NACE) outlines eight career readiness competencies that are considered as key to ensuring successful entrance into the workforce. The eight competencies are defined at the following site.  NACE Career Readiness Competencies  Throughout the semester, course discussion, assignments, assessments, and additional activities will touch upon several of the NACE competencies to varying degrees, including Communication, Critical Thinking, Leadership, Professionalism, and Technology.  More information regarding how a specific competency is addressed will be included on select assignments.  "
 },
 {
   "id": "ch_additional_information",
@@ -214,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Additional Information",
-  "body": " Additional Information   Student Expectations  Students should devote a minimum of 2-3 hours of study time to the course for every fifty minutes of in-class time (8-12 hours per week). It is especially recommended for a two-day per week course that students devote at least 1 hour of study time to the course each weeknight. Additionally, students are expected to be actively reading the course text and attempting homework problems while each section is being covered (not after). Lastly, any student with non-academic obligations (e.g. part-time employment) is strongly encouraged to pay close attention to their course standing throughout the semester, so as to not fall behind in their studies.  This course will rely heavily on concepts introduced in Precalculus (exponential, logarithmic, and trigonometric) and Calculus I and II. It is essential that students resolve any prerequisite course material concerns as soon as they arise. Given the small size of the class and the nature of the course content, students with any concerns are encouraged to seek help from the instructor early on in the semester.    Academic Honesty  All students should familiarize themselves with the University's policy regarding academic honesty, which can be found in the Undergraduate Catalog. Listed below are the most common infractions of the University's policy for a mathematics course.   Plagiarism: claiming as one’s own work the published or unpublished literal or paraphrased work of another, including AI generated content. It should be recognized that plagiarism is not only academically dishonest but also illegal.  Cheating on exams, tests, quizzes, assignments, and papers, including the giving or acceptance of these materials and other sources of information without the permission of the instructor(s).  Unauthorized collaboration with other individuals in the preparation of course assignments.  Unauthorized use of technology in the completion of course assignments.   Violations of this policy in any way will not be tolerated.    Academic Support Services  Tutoring is available for most 100 and 200-level courses through the Department of Mathematics, as well as the Center for Academic Support and Achievement (CASA). Additionally, Supplemental Instruction may be available for certain sections of 100 and 200-level courses. Students are encouraged to work in groups on any assignments, especially when no campus support is available. All students who are struggling with the material are strongly encouraged to utilize the instructor's office hours.  Framingham State University offers equal opportunities to all qualified students, including those with disabilities and impairments. The University is committed to making reasonable accommodations as are necessary to ensure that its programs and activities do not discriminate, or have the effect of discriminating, on the basis of disability. Academic Support serves students with learning and psychiatric disabilities as well as students with visual, mobility and hearing impairments. For further information about this, please visit the link for disability services through the CASA website or contact Dr. LaDonna Bridges, Associate Dean of Academic Success and Director of CASA, at lbridges@framingham.edu or Ms. Tanya Milette , Associate Director of Disability and Access Services at tmilette@framingham.edu .    FSU Notice on Sexual Harrassment  Framingham State University is committed to maintaining a safe and healthy learning, living and working environment that is free from all forms of sexual violence, sexual harassment, gender-based harassment, domestic violence, dating violence, stalking and retaliation. If you or someone you know has experienced any form of sexual or gender-based misconduct, we urge you to visit the SHAPE website at for information regarding on-campus and community resources, University policy, contact information for the Title IX Coordinators, confidential and non-confidential reporting options, victim rights, and more.    FSU Notice of Non-Discrimination and Diversity  Framingham State University is committed to a policy of non-discrimination, equal opportunity, diversity, and affirmative action. The University is dedicated to providing educational, working, and living environments that value the diverse backgrounds of all people. Furthermore, the Massachusetts Civil Rights Act (\"MCRA,\" M.G.L. c. 12, §§ 11H, 11I, 11J) protects the rights of all residents of and visitors to Massachusetts to be free from bias-motivated threats, intimidation, and coercion that interfere with their civil rights. The MCRA protects the right to attend school, live peacefully, and enjoy other basic rights.    Antiracism at FSU  At Framingham State University, faculty, staff, and students work together to sustain a learning, working, and living community free from hate, discrimination, harassment, and intolerance. We recognize the damaging effects of systemic racism—including policies, structures, and historic practices—on the experience and success of communities of color. Coming from different backgrounds and different levels of privilege, we can all affirm and engage in antiracist work.  Diversity of voices, and of minds, strengthens our ability to solve problems and to ask and answer questions about the world we share. As your instructor, I commit to upholding community values of inclusion, civility, accessibility, and mutual respect. I expect this class to commit to creating a community that affirms and welcomes all persons from diverse backgrounds and experiences, and supports the realization of everyone’s potential.    Email Policy  It is the policy of the University to use framingham.edu email addresses for all official email correspondence between faculty, staff, and students. In order to insure that your email address is correct, students should make their student.framingham.edu address the preferred email address in both Canvas and myFramingham. All important course documents will be posted on the designated Canvas site.    Recording of Lectures  This class will use video and audio recordings of faculty and students, both online and in person, to better support learning in a blended format. By enrolling in the course, students are consenting to being recorded in this class and may only withdraw such consent by informing the course instructor in writing. As these recordings may contain intellectual property as well as confidential student information (ex. student names, likenesses), sharing or transferring recordings of such content by any method currently available or any method that may become available in the future is not allowed, and copies of such recordings should not be provided to others; uploaded, linked, embedded, or otherwise posted via file-sharing, social media, or other sites or services which could enable anyone to view or hear them who is not currently enrolled in the course; or share them in any other way. Access to video and audio recordings in this class is for personal educational use only and is available only to individuals currently enrolled in the class, unless faculty permission is expressly granted. Recording and\/or sharing course materials, including video and audio files, without the written consent of the course instructor is a violation of University policies (ex. academic honesty) and will be reported to the College Dean for further action and\/or discipline.    OER and Copyright Information  This course is designed using free and open educational resources (OER) when available. It is possible, however, that your instructor may utilize copyrighted educational materials, which is in compliance with U.S. Copyright Law. Under that law, such materials may not be saved to your computer, revised, copied, or distributed without permission. Students may freely download and print any OER used. You may only download or print copyrighted materials, however, at the direction of your instructor.   "
+  "body": " Additional Information   Student Expectations  Students should devote a minimum of 2-3 hours of study time to the course for every fifty minutes of in-class time (8-12 hours per week). It is especially recommended for a two-day per week course that students devote at least 1 hour of study time to the course each weeknight. Additionally, students are expected to be actively reading the course text and attempting homework problems while each section is being covered (not after). Lastly, any student with non-academic obligations (e.g. part-time employment) is strongly encouraged to pay close attention to their course standing throughout the semester, so as to not fall behind in their studies.  This course will rely heavily on concepts introduced in Precalculus (exponential, logarithmic, and trigonometric) and Calculus I and II. It is essential that students resolve any prerequisite course material concerns as soon as they arise. Given the small size of the class and the nature of the course content, students with any concerns are encouraged to seek help from the instructor early on in the semester.    Academic Honesty  All students should familiarize themselves with the University's policy regarding academic honesty, which can be found in the Undergraduate Catalog. Listed below are the most common infractions of the University's policy for a mathematics course.  Plagiarism: claiming as one’s own work the published or unpublished literal or paraphrased work of another, including AI generated content. It should be recognized that plagiarism is not only academically dishonest but also illegal.  Cheating on exams, tests, quizzes, assignments, and papers, including the giving or acceptance of these materials and other sources of information without the permission of the instructor(s).  Unauthorized collaboration with other individuals in the preparation of course assignments.  Unauthorized use of technology in the completion of course assignments.    Violations of this policy in any way will not be tolerated.    Academic Support Services  Tutoring is available for most 100 and 200-level courses through the Department of Mathematics, as well as the Center for Academic Support and Achievement (CASA). Additionally, Supplemental Instruction may be available for certain sections of 100 and 200-level courses. Students are encouraged to work in groups on any assignments, especially when no campus support is available. All students who are struggling with the material are strongly encouraged to utilize the instructor's office hours.  Framingham State University offers equal opportunities to all qualified students, including those with disabilities and impairments. The University is committed to making reasonable accommodations as are necessary to ensure that its programs and activities do not discriminate, or have the effect of discriminating, on the basis of disability. Academic Support serves students with learning and psychiatric disabilities as well as students with visual, mobility and hearing impairments. For further information about this, please visit the link for disability services through the CASA website or contact Dr. LaDonna Bridges, Associate Dean of Academic Success and Director of CASA, at lbridges@framingham.edu or Ms. Tanya Milette , Associate Director of Disability and Access Services at tmilette@framingham.edu .    FSU Notice on Sexual Harrassment  Framingham State University is committed to maintaining a safe and healthy learning, living and working environment that is free from all forms of sexual violence, sexual harassment, gender-based harassment, domestic violence, dating violence, stalking and retaliation. If you or someone you know has experienced any form of sexual or gender-based misconduct, we urge you to visit the SHAPE website at https:\/\/www.framingham.edu\/sexual-harassment-assault-prevention-education for information regarding on-campus and community resources, University policy, contact information for the Title IX Coordinators, confidential and non-confidential reporting options, victim rights, and more.    FSU Notice of Non-Discrimination and Diversity  Framingham State University is committed to a policy of non-discrimination, equal opportunity, diversity, and affirmative action. The University is dedicated to providing educational, working, and living environments that value the diverse backgrounds of all people. Furthermore, the Massachusetts Civil Rights Act (\"MCRA,\" M.G.L. c. 12, §§ 11H, 11I, 11J) protects the rights of all residents of and visitors to Massachusetts to be free from bias-motivated threats, intimidation, and coercion that interfere with their civil rights. The MCRA protects the right to attend school, live peacefully, and enjoy other basic rights.    Antiracism at FSU  At Framingham State University, faculty, staff, and students work together to sustain a learning, working, and living community free from hate, discrimination, harassment, and intolerance. We recognize the damaging effects of systemic racism—including policies, structures, and historic practices—on the experience and success of communities of color. Coming from different backgrounds and different levels of privilege, we can all affirm and engage in antiracist work.  Diversity of voices, and of minds, strengthens our ability to solve problems and to ask and answer questions about the world we share. As your instructor, I commit to upholding community values of inclusion, civility, accessibility, and mutual respect. I expect this class to commit to creating a community that affirms and welcomes all persons from diverse backgrounds and experiences, and supports the realization of everyone’s potential.    Email Policy  It is the policy of the University to use framingham.edu email addresses for all official email correspondence between faculty, staff, and students. In order to insure that your email address is correct, students should make their student.framingham.edu address the preferred email address in both Canvas and myFramingham. All important course documents will be posted on the designated Canvas site.    Recording of Lectures  This class will use video and audio recordings of faculty and students, both online and in person, to better support learning in a blended format. By enrolling in the course, students are consenting to being recorded in this class and may only withdraw such consent by informing the course instructor in writing. As these recordings may contain intellectual property as well as confidential student information (ex. student names, likenesses), sharing or transferring recordings of such content by any method currently available or any method that may become available in the future is not allowed, and copies of such recordings should not be provided to others; uploaded, linked, embedded, or otherwise posted via file-sharing, social media, or other sites or services which could enable anyone to view or hear them who is not currently enrolled in the course; or share them in any other way. Access to video and audio recordings in this class is for personal educational use only and is available only to individuals currently enrolled in the class, unless faculty permission is expressly granted. Recording and\/or sharing course materials, including video and audio files, without the written consent of the course instructor is a violation of University policies (ex. academic honesty) and will be reported to the College Dean for further action and\/or discipline.    OER and Copyright Information  This course is designed using free and open educational resources (OER) when available. It is possible, however, that your instructor may utilize copyrighted educational materials, which is in compliance with U.S. Copyright Law. Under that law, such materials may not be saved to your computer, revised, copied, or distributed without permission. Students may freely download and print any OER used. You may only download or print copyrighted materials, however, at the direction of your instructor.   "
 }
 ]
 

@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Spring 2026 Cohort",
-  "body": " Spring 2026 Cohort  Atchison Syllabus  Brinkman Syllabus  Gentry Syllabus  Moynihan Syllabus  Totty Syllabus  Mathematics Department Student Handbook - In Development  "
+  "body": " Spring 2026 Cohort  Atchison Syllabus  Brinkman Syllabus  Coyne Syllabus  Gentry Syllabus  Moynihan Syllabus  Totty Syllabus  Mathematics Department Student Handbook - In Development  "
 },
 {
   "id": "syllabus",
